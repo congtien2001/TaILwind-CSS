@@ -107,8 +107,8 @@
     "yaml": "^2.6.1"
   },
   "scripts": {
-    "build": "postcss ./Tailwind/main.css -o public/tailwind.css",
-    "watch": "postcss ./Tailwind/main.css -o public/tailwind.css -watch"
+    "build": "postcss ./Tailwind/main.css -o ./public/tailwind.css",
+    "watch": "postcss ./Tailwind/main.css -o ./public/tailwind.css -w"
   },
   "keywords": [],
   "author": "",
