@@ -34,3 +34,6 @@
 -Box Shadow
     +shadow-...
     vd: shadow-md
+-Responsive Design 
+    +sm, md, lg, xl, 2xl
+
