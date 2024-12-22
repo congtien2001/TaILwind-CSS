@@ -1,3 +1,5 @@
+phím tắt: ctrl+~ mở terminal
+cập nhật dữ liệu: npm run watch
             class trong Tailwind Css
 -Font Size
     +text-...
