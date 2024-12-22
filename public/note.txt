@@ -38,4 +38,10 @@ cập nhật dữ liệu: npm run watch
     vd: shadow-md
 -Responsive Design 
     +sm, md, lg, xl, 2xl
+-Darkmode:
+    +dark:...
+    vd: dark:text-white hiển thị chữ màu trắng.
+        dark:bg-gray-400 hiển thị nền xám.
+-Customize:
++custom-...
 
