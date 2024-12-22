@@ -42,6 +42,6 @@ cập nhật dữ liệu: npm run watch
     +dark:...
     vd: dark:text-white hiển thị chữ màu trắng.
         dark:bg-gray-400 hiển thị nền xám.
--Customize:
-+custom-...
+-Customize: có cấu hình ở file taildwind.config.js thêm heading: "#bada55" 
+    +w-[500px] h-[500px text-heading]: cho width 500px , height 500px, chữ màu #bada55
 
